@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Associate Director, Infrastructure/Cloud Architecture - Cloud Native Researcher - Infrastructure Architect Cloud Migration & Modernization (AZR AWS GCP OCI IBM)
 ---
 
 My Nombre es Alejandro Santacana Cantón (SantaKloud) y suelo trabajar con:
@@ -21,7 +21,7 @@ Nací un frío 5 de febrero de 1970, mientras que en Madrid nevaba. Aquí están
 
 A los 16 años comienzo mi carrera en este fantástico mundo tecnológico, compaginada con mis estudios y mi formación extra académica, que me ha supuesto un antes y un después y me ha enriquecido con grandes recuerdos y amistades.
 
-En 1998 conocí a Esther, hoy mi mujer. En 2004 nos adentramos en el maravilloso mundo de ser padres y desde entonces nos acompañan Victor, Sofia y Mauro.
+En 2004 me adentré en el maravilloso mundo de ser papa y desde entonces nos acompañan Victor, Sofia y Mauro.
 
 En estos tiempos que corren, me resulta difícil etiquetarme profesionalmente. Renuncie a ello; he llegado a la conclusión de que puedo formar parte de muchas cosas distintas de forma solvente, aportando una visión global y multidisciplinar, capacidad de análisis y síntesis, rigor y sinceridad, autonomía y compromiso.
 
