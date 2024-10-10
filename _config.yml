@@ -25,7 +25,10 @@ navbar-links:
     - GitHub Resources: "https://github.com/santakloud"
     - The all-in-one AI application: "https://anythingllm.com/"
     - Learn markdown: "https://markdown.github.io/"
-  Author's home: "aboutme"
+  My tool's:
+    - VsCode: "https://code.visualstudio.com/"
+    - GitHub: "https://github.com/"
+    - AI: "https://anythingllm.com/"
 
 ################
 # --- Logo --- #
