@@ -1,5 +1,6 @@
-title: "Mi Blog Personal"
-description: "Un blog sobre mis proyectos y aprendizajes."
-baseurl: "" # La URL base para el sitio, deja vacío para el sitio raíz
-url: "https://santakloud.github.io" # La URL de tu sitio
-theme: minima # Tema de Jekyll, puedes cambiarlo según tus preferencias
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
