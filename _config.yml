@@ -22,9 +22,10 @@ author: Alex Santacana Cantón
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: ""
-    - Learn markdown: ""
-  Author's home: ""
+    - GitHub Resources: "https://github.com/santakloud"
+    - The all-in-one AI application: "https://anythingllm.com/"
+    - Learn markdown: "https://markdown.github.io/"
+  Author's home: ""aboutme""
 
 ################
 # --- Logo --- #
