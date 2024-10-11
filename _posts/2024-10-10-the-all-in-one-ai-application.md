@@ -6,7 +6,7 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [post, test]
-author: bbt+
+author: bbt2+
 ---
 
 AnythingLLM es una aplicación de inteligencia artificial todo en uno diseñada para facilitar la interacción con modelos de lenguaje grandes (LLMs) y documentos. Esta herramienta permite a los usuarios utilizar cualquier LLM para chatear con sus documentos, mejorando la productividad y permitiendo ejecutar los modelos más avanzados de manera completamente privada y sin necesidad de configuración técnica. La flexibilidad de AnythingLLM permite trabajar con modelos empresariales como GPT-4, modelos personalizados o modelos de código abierto como Llama y Mistral.
