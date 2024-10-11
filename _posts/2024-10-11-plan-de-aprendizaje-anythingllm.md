@@ -3,7 +3,7 @@ layout: post
 title: Plan de Aprendizaje AnythynLLM 
 subtitle: Plan de Aprendizaje de 30 Días para AnythingLLM Desktop.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/AI1.png
 share-img: /assets/img/path.jpg
 tags: [post, test, learn]
 author: bbt2+

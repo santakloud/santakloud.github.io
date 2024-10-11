@@ -3,7 +3,7 @@ layout: post
 title: The all-in-one AI application
 subtitle: Any LLM, any document, any agent, fully private.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/anythingllm.png
 share-img: /assets/img/path.jpg
 tags: [post, test]
 author: bbt2+
