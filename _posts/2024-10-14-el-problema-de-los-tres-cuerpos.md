@@ -5,7 +5,7 @@ subtitle: ... la clave está en la innovación y en no tener miedo de enfrentar 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/AI2.png
 share-img: /assets/img/path.jpg
-tags: [post, test, learn]
+tags: [post, test, kaos]
 author: bbt2+
 ---
 
